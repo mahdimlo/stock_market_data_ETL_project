@@ -1,0 +1,6 @@
+pandas
+argparse
+requests
+jdatetime
+logging
+openpyxl
